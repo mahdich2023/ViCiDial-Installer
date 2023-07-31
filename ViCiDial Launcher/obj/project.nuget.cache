@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BiNCvCQZafWndkX8rXRbH6jgQUQ2ohLxAUc8KWV713fFx6ct3mgAtbZvvLAAXGvdhKZs3IJ/BFNSK9PYuAg4BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\martin\\source\\repos\\ViCiDial Launcher\\ViCiDial Launcher\\ViCiDial Launcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\martin\\.nuget\\packages\\microsoft.web.webview2\\1.0.1901.177\\microsoft.web.webview2.1.0.1901.177.nupkg.sha512"
+  ],
+  "logs": []
+}

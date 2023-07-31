@@ -1,0 +1,24 @@
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\ViCiDial Launcher.exe
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\ViCiDial Launcher.deps.json
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\ViCiDial Launcher.runtimeconfig.json
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\ViCiDial Launcher.dll
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\ViCiDial Launcher.pdb
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\bin\x86\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial Launcher.csproj.AssemblyReference.cache
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial_Launcher.Form1.resources
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial Launcher.csproj.GenerateResource.cache
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial Launcher.AssemblyInfoInputs.cache
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial Launcher.AssemblyInfo.cs
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial Launcher.csproj.CoreCompileInputs.cache
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial Launcher.csproj.CopyComplete
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial Launcher.dll
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\refint\ViCiDial Launcher.dll
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial Launcher.pdb
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ViCiDial Launcher.genruntimeconfig.cache
+C:\Users\martin\source\repos\ViCiDial Launcher\ViCiDial Launcher\obj\x86\Debug\net6.0-windows\ref\ViCiDial Launcher.dll
