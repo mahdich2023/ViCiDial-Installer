@@ -24,6 +24,17 @@ This Built for 32-bit and 64-bit machines.
 6) To terminate the application, open the task manager, right-click on ViCiDial Launcher.exe and click "End Task". Alternatively, logout or restart your computer.
 
 # Screenshots
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Installer%20Splash%20Screen.png" height="425" width="1000">
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Installer%20Setup%20Wizard%20Part%201.png" height="425" width="1000">
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Installer%20Setup%20Wizard%20Part%202.png" height="425" width="1000">
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Installer%20Setup%20Wizard%20Part%203.png" height="425" width="1000">
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Installer%20Setup%20Wizard%20Part%204.png" height="425" width="1000">
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Installer%20Setup%20Wizard%20Part%205.png" height="425" width="1000">
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Installer%20Splash%20Screen.png" height="425" width="1000">
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Installer%20Start%20Menu%20Items.png" height="425" width="1000">
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Kiosk%20Mode%20%231.png" height="425" width="1000">
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Kiosk%20Mode%20%232.png" height="425" width="1000">
+<img src="https://github.com/TheBlode/ViCiDial-Installer/blob/main/screenshots/ViCiDial%20Kiosk%20Mode%20%233.png" height="425" width="1000">
 
 # Known bugs
 - No known at this time. If you find bugs, please report them on;
