@@ -46,7 +46,7 @@ https://github.com/TheBlode/ViCiDial-Installer/issues
 - Allow the process to be terminated when the agent logs out of ViCiDial.
 
 # Links
-Official ViCiDial forum post -> http://www.vicidial.org/VICIDIALforum/viewtopic.php?f=5&t=41813&sid=179329c2d00b7941ea1e242afa5551bf
+Official ViCiDial forum post -> http://www.vicidial.org/VICIDIALforum/viewtopic.php?f=5&t=41813
 
 mDial page -> https://github.com/TheBlode/mDial
 
