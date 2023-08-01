@@ -6,7 +6,7 @@ Here we have a launcher for ViCiDial designed for deployment on agent desktops! 
 - Running the launcher can increase data integrity and keep data sane.
 - Running the launcher can decrease the chances of LAGGED issues as the process runs in isolation and is not marred by Edge's Throttling mechanisms.
 
-This launcher is built for and will run on 32-bit and 64-bit Microsoft Windows machines.
+This launcher is built for and will run on 32-bit and 64-bit Microsoft Windows machines. This installer and launcher was built using Visual C# and the awesome, InstallForge. ViCiDial is a dialler system maintained by the ViCiDial Group.
 
 # How to Use This
 1) Download one of the installers;
