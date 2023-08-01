@@ -1,11 +1,12 @@
 # ViCiDial Launcher / Installer
-Here we have a launcher for ViCiDial for agent desktops! Some of the features of this launcher;
+Here we have a launcher for ViCiDial designed for deployment on agent desktops! Some of the features of this launcher include;
 
-- Runs in full-screen mode to prevent agents from closing the dialer down during operation.
-- Agents cannot close the dialer with ALT-F4.
-- This can increase data integrity and reduce the amount of dropped calls.
+- Runs ViCiDial in full-screen mode to prevent agents from closing the dialer down during operation. This can decrease the amount of drop calls you experience on your campaign.
+- Additionally, agents cannot close easily close ViCiDial with common methods like Alt+F4 further decreasing the likelihood of dropped calls.
+- Running the launcher can increase data integrity and keep data sane.
+- Running the launcher can decrease the chances of LAGGED issues as the process runs in isolation and is not marred by Edge's Throttling mechanisms.
 
-This Built for 32-bit and 64-bit machines.
+This launcher is built for and will run on 32-bit and 64-bit Microsoft Windows machines.
 
 # How to Use This
 1) Download one of the installers;
@@ -38,7 +39,15 @@ This Built for 32-bit and 64-bit machines.
 # Known bugs
 - No known at this time. If you find bugs, please report them on;
 
+https://github.com/TheBlode/ViCiDial-Installer/issues
+
 # Upcoming changes
-- No upcoming changes are planned.
+- Linx installer. You may have success with wine or Bottles but I will try to deploy an AppImage.
+- Allow the process to be terminated when the agent logs out of ViCiDial.
 
 # Links
+Official ViCiDial forum post -> http://www.vicidial.org/VICIDIALforum/viewtopic.php?f=5&t=41813&sid=179329c2d00b7941ea1e242afa5551bf
+
+mDial page -> https://github.com/TheBlode/mDial
+
+Project page -> https://github.com/TheBlode/ViCiDial-Installer
